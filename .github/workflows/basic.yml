@@ -30,6 +30,10 @@ jobs:
       - name: Run a one-line script
         run: echo Hello, world!
 
+      # Runs it :)
+      - name: Run it now and ever!!!!
+        run: echo Yep Thats all....
+
       # Runs a set of commands using runners shell
       - name: Run a multi-line script
         run: |
